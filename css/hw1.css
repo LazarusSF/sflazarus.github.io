@@ -30,8 +30,8 @@ a{
 .left img{
 	border: solid;
 	border-color: #000000;
-	height: 24%;
-	width: 80%;
+	height: 21vh;
+	width: 14vw;
 	display: block;
 	margin: 20px auto;
 }
@@ -66,8 +66,8 @@ nav a{
 	background-color: #d7d7d7;
 	float: left;
 	display: inline-block;
-	height: 90vh;
-	width: 18vh;
+	height: 90%;
+	width: 18%;
 
 }
 .right{
